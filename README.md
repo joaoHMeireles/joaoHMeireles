@@ -1,6 +1,6 @@
 # 💫 About Me:
 18 anos<br>Aprendiz de Programador de Sistemas de Informação - WEG / 2021 - 2023.<br>Todo dia aprendendo algo novo
-- - - - - - - - - - -
+
 18 years<br>Information Systems Programmer Apprentice - WEG / 2021 - 2023.<br>Every day learning something new
 
 
